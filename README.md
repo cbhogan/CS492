@@ -2,7 +2,7 @@
 
 # BLACKJACK README
 ## Authors and Intdended Purpose
-This project was designed, developed, and packaged Brandon Rias and Collin Hogan. It was completed for Western Illinois University, class CS492 Fall 2021 for our primary project.
+This project was designed, developed, and packaged by Brandon Rias and Collin Hogan. It was completed for Western Illinois University, class CS492 Fall 2021 for our primary project.
 
 This game is meant to be played by one human player and the A.I. Dealer. It is a standard game of Blackjack, where the goal is to hit a value of 21 or beat the dealer's hand without ever going over 21 (otherwise known as a bust).
 
