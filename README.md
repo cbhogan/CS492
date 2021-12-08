@@ -22,8 +22,8 @@ This game is meant to be played by one human player and the A.I. Dealer. It is a
 
 `Game.java`->Game Class: This class calculates the Blackjack game itself. It starts the game, forms the hands, checks the hands for a blackjack or bust. 
 
-`Board.java`->Board Class: This class is for the overall atmosphere of our game. When the user clicks the play button in BoardRunner (menu), this component opens with the poker table, poker chip, the cards, etc.
+`Runner.java`->Board Class: This class is for the overall atmosphere of our game. When the user clicks the play button in BoardRunner (menu), this component opens with the poker table, poker chip, the cards, etc.
 
-`BoardRunner.java`->BoardRunner Class: This class is for the main menu in our program.
+`Menu.java`->BoardRunner Class: This class is for the main menu in our program.
 
 `Tester.java`->Tester Class: The tester class is the main class of our program. It will run when you click run in your IDE of choice that runs Java.
